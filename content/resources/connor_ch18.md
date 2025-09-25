@@ -5,6 +5,8 @@ description: Part 4, Chapter 18 of the reference textbook for this course, Analy
 file: /courses/1-571-structural-analysis-and-control-spring-2004/96ff2c5fecde3ba2587e53ee0ea98041_connor_ch18.pdf
 file_size: 1231140
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

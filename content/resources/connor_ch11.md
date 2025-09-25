@@ -5,6 +5,8 @@ description: Part 3, Chapter 11 of the reference textbook for this course, Analy
 file: /courses/1-571-structural-analysis-and-control-spring-2004/54e4fa5ad6027f5e45116953cdeb9fce_connor_ch11.pdf
 file_size: 2781851
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

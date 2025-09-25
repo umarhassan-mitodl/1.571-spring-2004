@@ -5,6 +5,8 @@ description: Part 3, Chapter 10 of the reference textbook for this course, Analy
 file: /courses/1-571-structural-analysis-and-control-spring-2004/b50b24aad0286e594a9fef750f20fe42_connor_ch10.pdf
 file_size: 2399712
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
