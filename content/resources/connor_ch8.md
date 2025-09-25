@@ -5,6 +5,8 @@ description: Part 2, Chapter 8 of the reference textbook for this course, Analys
 file: /courses/1-571-structural-analysis-and-control-spring-2004/afb96362cb5ba99931b3abe30147cf0e_connor_ch8.pdf
 file_size: 1737883
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

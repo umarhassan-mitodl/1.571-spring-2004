@@ -28,6 +28,7 @@
     "website": "1-571-structural-analysis-and-control-spring-2004"
   },
   "course_title": "Structural Analysis and Control",
+  "hide_download": true,
   "course_description": "This course uses computer-based methods for the analysis of large-scale structural systems. Topics covered include: modeling strategies for complex structures; application to tall buildings, cable-stayed bridges, and tension structures; introduction to the theory of active structural control; design of classical feedback control systems for civil structures; and simulation studies using customized computer software.\n",
   "department_numbers": [
     "1"
@@ -38,6 +39,7 @@
     "content": "c64c3054-a596-fa82-46a3-9b01b2c3da07",
     "website": "1-571-structural-analysis-and-control-spring-2004"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Open Textbooks",
